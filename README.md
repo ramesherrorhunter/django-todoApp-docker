@@ -13,7 +13,7 @@
 `docker-compose up -d`
 
 
-**3. To check**
+**3. To check open browser and type below url**
 
 
 localhot:9001
